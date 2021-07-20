@@ -13,16 +13,17 @@ Kaggle hosts numerous Data Science competitions where you can grab datasets and 
 
 * Navigate to [kaggle.com](https://www.kaggle.com)
 
-<img src="https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglehome.png" width="800">
+<!-- <img src="https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglehome.png" width="800"> -->
+![Kaggle Home](https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglehome.png)
 
 * Click "Sign in" and then 
 * Click "Create one" to make a new account
 
-<img src="https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglelogin1.png" width="300">
+![Kaggle Login](https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglelogin1.png)
 
 * Fill out the basic information
 
-<img src="https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglelogin2.png" width="300">
+![Kaggle Login cont'd](https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglelogin2.png)
 
 * Accept the Privacy and Terms agreement
 
@@ -32,4 +33,4 @@ You should now be signed up for Kaggle where you'll have access to a range of da
 
 ## Summary
 
-In our upcoming lab, you'll then be working with this dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques. To download it, click on the "data" tab and then click the "download all" to get a copy of the data.
+In our upcoming lab, you'll then be working with this dataset: <https://www.kaggle.com/c/house-prices-advanced-regression-techniques>. To download it, click on the "data" tab and then click the "download all" to get a copy of the data.
