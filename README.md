@@ -8,12 +8,10 @@ Kaggle hosts numerous Data Science competitions where you can grab datasets and 
 
 * Create a Kaggle account and download a dataset 
 
-
 ## Sign up
 
 * Navigate to [kaggle.com](https://www.kaggle.com)
 
-<!-- <img src="https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglehome.png" width="800"> -->
 ![Kaggle Home](https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglehome.png)
 
 * Click "Sign in" and then 
@@ -27,7 +25,7 @@ Kaggle hosts numerous Data Science competitions where you can grab datasets and 
 
 * Accept the Privacy and Terms agreement
 
-## Congratulations! 
+## Congratulations
 
 You should now be signed up for Kaggle where you'll have access to a range of datasets, competitions, and other Data Science resources! Welcome to the community!
 
