@@ -17,9 +17,13 @@ Kaggle hosts numerous Data Science competitions where you can grab datasets and 
 
 * Click "Sign in" and then 
 * Click "Create one" to make a new account
+
 <img src="https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglelogin1.png" width="300">
+
 * Fill out the basic information
+
 <img src="https://raw.githubusercontent.com/FS-HSBC/dsc-kaggle-and-boston-housing-dataset/master/images/kagglelogin2.png" width="300">
+
 * Accept the Privacy and Terms agreement
 
 ## Congratulations! 
